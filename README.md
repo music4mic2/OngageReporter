@@ -28,7 +28,7 @@ execute the script:
   perl ongage_reporter.pl 
 
 ================================================
-USAGE: perl ongage_reporter.pl [--debug] [-h|--help] [-L filepath] [-R YYYY-MM-DD] [-C 1234567] [-D YYYY-MM-DD] \n
+USAGE: perl ongage_reporter.pl [--debug] [-h|--help] [-L filepath] [-R YYYY-MM-DD] [-C 1234567] [-D YYYY-MM-DD] 
   --debug - Display enhanced diagnostic messages in the output 
   -h or --help  - Display this help message 
   -L (location) is a file path that can be ./ or /var/log/ or whatever. 
