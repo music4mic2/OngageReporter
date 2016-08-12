@@ -36,9 +36,9 @@ USAGE: perl ongage_reporter.pl [--debug] [-h|--help] [-L filepath] [-R YYYY-MM-D
   -R (range) is how far back to check mailings for activity.
      By default, the report will evaluate any mailings send in the past 30 days. 
   -D (date) is the day you want to see engagement and summary information for.
-     By default this is 'YESTERDAY' and compensates for UTC reported activity. 
+    By default this is 'YESTERDAY' and compensates for UTC reported activity. 
   -C (campaign) - If this is a valid campaign ID format, all activity for the 
-     campaign in the date range will be reported. 
+    campaign in the date range will be reported. 
   If arguments do not validate, the defaults will be use and an warning will be displayed. 
 
 
