@@ -2,7 +2,7 @@
 
 ##############################################################
 # ONGAGE_REPORTER.PL
-# This script was written to provide a way to extrat reporting
+# This script was written to provide a way to extract reporting
 # from the Ongage environment and store locally for later
 # 3rd party reporting
 
